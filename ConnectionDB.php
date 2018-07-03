@@ -1,7 +1,7 @@
 <?php
 class ConnectionDB {
-    const SERVER = "180.172.10.35";
-    const USER = "root";
+    const SERVER = "localhost";
+    const USER = "giampieer24";
     const PASS = "";
     const DATABASE = "callcenterregistrollamadas";
     private  $cn = null;

@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: user
- * Date: 7/06/18
- * Time: 19:26
- */
-
 require_once 'ConnectionDB.php';
 class CallDAO {
     public function ListCall() {
